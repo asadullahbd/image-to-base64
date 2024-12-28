@@ -1,0 +1,32 @@
+.nav {
+  background-color: #8CADA7 !important;
+  box-shadow: #110b11 0 10px 10px -10px;
+}
+
+.nav-logo {
+  padding: 0 !important;
+  width: 90px !important;
+  height: auto !important;
+}
+
+body {
+  background-color: #110B11;
+}
+
+h1 {
+  color: #ffffff;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+textarea {
+  font-family: monospace;
+}
+
+ input::file-selector-button {
+  color: #FC9E4F;              /* Change text color */
+  background-color: transparent !important; /* Change background color */
+  
+}
