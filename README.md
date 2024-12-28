@@ -1,3 +1,5 @@
+demo: https://image-to-base64-kappa.vercel.app
+
 # Image to Base64 Converter
 
 A simple React application that allows users to upload an image, convert it to a Base64 string, and copy the Base64 output to the clipboard. The app also displays the uploaded image preview.
